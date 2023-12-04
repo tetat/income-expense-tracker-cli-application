@@ -1,3 +1,4 @@
 1 200 Personal
 2 1000 Family
-3 200 Sadakah
+3 250 Sadakah
+4 50 Bill

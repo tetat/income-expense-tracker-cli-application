@@ -1,3 +1,4 @@
 1 1500 Rent
 2 5000 Business
 3 3000 Salary
+4 3000 Salary
