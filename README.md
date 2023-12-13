@@ -1,7 +1,7 @@
 # Income Expense Tracker CLI Application
 
-- To Run: php index.php
-- Close Program: 0
+- To Run: `php index.php`
+- Close Program: `0`
 
 ## Functionalities
 
